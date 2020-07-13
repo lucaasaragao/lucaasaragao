@@ -10,5 +10,3 @@ I am Lucas Aragão, I am a student at the Federal University of Paraiba and I cu
 - 👯 I’m looking to collaborate on React, Node, Python
 - 🤔 I’m looking for help with Django 
 - 💬 Ask me about tech, anime, movies and Keybords
-- 📫 How to reach me: 
-
