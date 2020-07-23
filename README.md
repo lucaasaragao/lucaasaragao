@@ -7,7 +7,7 @@ I am Lucas Aragão, I am a student at the Federal University of Paraiba.
 
 ### What I'm working on 👨‍💻
 
-I am currently working with artificial intelligence and machine learning at Energisa. A funny fact is that I am using JavaScript to make the entire backend.  Want to take a look? [click here](https://www.energisa.com.br/Gisa/Default.aspx)
+I am currently working with artificial intelligence and machine learning at Energisa. A funny fact is that I am using JavaScript to make the entire backend.  Want to take a look? [click here](https://www.energisa.com.br/Gisa/Default.aspx) 😄
 
 ### Find me elsewhere  📑 
 
