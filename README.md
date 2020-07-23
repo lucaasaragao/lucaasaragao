@@ -3,9 +3,13 @@
 <!--
 **lucaasaragao/lucaasaragao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am Lucas Aragão, I am a student at the Federal University of Paraiba and I currently work with machine learning. Passionate about creative solutions and crazy about the JavaScript ecosystem.
+I am Lucas Aragão, I am a student at the Federal University of Paraiba.
 
-Contact 📑 
+### What I'm working on 👨‍💻
+
+I am currently working with artificial intelligence and machine learning at Energisa. A funny fact is that I am using JavaScript to make the entire backend.  Want to take a look? [click here](https://www.energisa.com.br/Gisa/Default.aspx)
+
+### Find me elsewhere  📑 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LucasAragao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-aragao-magno/)](https://www.linkedin.com/in/lucas-aragao-magno/)
 [![Gmail Badge](https://img.shields.io/badge/-lucas.magno@dcx.ufpb.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.magno@dcx.ufpb.br)](mailto:lucas.magno@dcx.ufpb.br)
