@@ -3,11 +3,11 @@
 <!--
 **lucaasaragao/lucaasaragao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm Lucas Aragão, I graduated from the Federal University of Paraíba.
+I am Lucas Aragão, a graduate of the Federal University of Paraíba and currently pursuing a postgraduate degree at PUC Minas.
 
 ### What I'm working on 👨‍💻
 
-Currently I work with development and support of applications in JAVA. In addition to some personal projects in which I use other languages ​​and frameworks, if you want to get to know me better, visit my portal [click here](http://lucaas.dev.br/) 😄
+I am currently working on development and support of applications in JAVA using the SpringBoot framework with an emphasis on reactive programming using WEBFLUX. In addition, I have some personal projects where I use other languages and frameworks. If you want to get to know me better, visit my portal. [click here](http://lucaas.com.br/) 😄
 
 ### Find me elsewhere  📑 
 
@@ -18,5 +18,5 @@ Currently I work with development and support of applications in JAVA. In additi
 - 🔭 I am currently working on PIX development with JAVA and WEBFLUX.
 - 🌱 I am currently learning React, Node.
 - 👯 I'm looking to collaborate on React, Node, Java
-- 💬 Ask me about technology, anime, movies and keyboards
-- 😍 I love Python
+- 💬 Ask me about technology, movies and setups
+- 😍 I love Python and R
