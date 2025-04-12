@@ -3,7 +3,7 @@
 <!--
 **lucaasaragao/lucaasaragao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am Lucas Aragão, a graduate of the Federal University of Paraíba and currently pursuing a postgraduate degree at PUC Minas.
+I am Lucas Aragão, a graduate of the Federal University of Paraíba and currently pursuing a postgraduate degree at Uniesp-PB.
 
 ### What I'm working on 👨‍💻
 
